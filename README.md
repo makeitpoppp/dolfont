@@ -1,4 +1,5 @@
-@font-face {
+@font-face 
+{
 font-family: 'ON-jungsokL';
 font-weight: 300;
 font-style: normal;
@@ -7,7 +8,9 @@ url('https://cdn.jsdelivr.net/gh/makeitpoppp/dolfont@main/ON-jungsok-L.woff') fo
 url('https://cdn.jsdelivr.net/gh/makeitpoppp/dolfont@main/ON-jungsok-L.ttf') format("truetype");
 font-display: swap;
 }
-@font-face {
+
+@font-face 
+{
 font-family: 'ON-jungsokR';
 font-weight: 400;
 font-style: normal;
@@ -16,7 +19,9 @@ url('https://cdn.jsdelivr.net/gh/makeitpoppp/dolfont@main/ON-jungsok-R.woff') fo
 url('https://cdn.jsdelivr.net/gh/makeitpoppp/dolfont@main/ON-jungsok-R.ttf') format("truetype");
 font-display: swap;
 }
-@font-face {
+
+@font-face 
+{
 font-family: 'ON-jungsokB';
 font-weight: 700;
 font-style: normal;
